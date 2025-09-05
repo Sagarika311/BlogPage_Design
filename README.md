@@ -91,7 +91,7 @@ To get a local copy up and running, follow these simple steps:
 ## Usage
 
 *   **View Live**: You can access the live version of this project hosted on Netlify here:
-    **[Link]**(https://blogpage-design.netlify.app/)
+    **[Link](https://blogpage-design.netlify.app/)**
 *   **Browse Articles**: Navigate through the home page to read featured and recent articles. Click "Read More" to expand content.
 *   **Search**: Use the search bar in the header to simulate searching for articles.
 *   **Subscribe**: Enter your name and email in the newsletter form in the sidebar to subscribe.
