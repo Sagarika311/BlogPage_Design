@@ -1,5 +1,3 @@
-Here's the updated README file with the Netlify deployment information:
-
 # Mindful Living Blog
 
 ## Table of Contents
@@ -122,6 +120,7 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 
 **Sagarika**
 *   **Email**: sagarikabhagat311@gmail.com
+*   **LinkedIn**: [Sagarika Bhagat](https://www.linkedin.com/in/sagarika-bhagat)
 
 ---
 © 2025 Mindful Living Blog. All rights reserved. Built with ❤️ by Sagarika.
