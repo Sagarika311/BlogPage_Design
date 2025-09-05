@@ -120,7 +120,7 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 
 **Sagarika**
 *   **Email**: sagarikabhagat311@gmail.com
-*   **LinkedIn**: [Sagarika Bhagat](https://www.linkedin.com/in/sagarika-bhagat)
+*   **LinkedIn**: [Sagarika Bhagat].(https://www.linkedin.com/in/sagarika-bhagat-0b6903221/)
 
 ---
 © 2025 Mindful Living Blog. All rights reserved. Built with ❤️ by Sagarika.
